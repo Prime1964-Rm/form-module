@@ -1,0 +1,67 @@
+body {
+    background: #fcfcfc;
+}
+.main-titles {
+  margin-top: 0;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2.5vh;
+  line-height: 25px;
+  padding-bottom: 1vh;
+}
+
+/* .head{
+ padding-left: 5%;
+} */
+
+.settings-container {
+  margin-top: 30px;
+  display: flex;
+}
+
+.settings-options {
+  padding: 5px;
+  overflow-x: auto;
+  padding-right: 5%;
+  border-right: 1.5px solid rgba(87, 79, 79, 0.19);
+  width: 50%;
+  overflow-y: auto;
+  height: 90vh;
+}
+
+.settings-sub-options{
+  padding: 5px;
+  padding-left: 5%;
+  overflow-x: auto;
+    width: 50%;
+    height: 90vh;
+}
+
+.blocks {
+  margin-right: auto;
+  text-align: left;
+  width: 100%;
+ 
+  margin-bottom: 47px;
+}
+
+.tile-list {
+  background: #ffffff;
+  box-shadow: 0 4px 6px rgb(32 33 36 / 28%); 
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.blocks h1 {
+  margin-right: auto;
+}
+
+
+
+.settings-main{
+  height: 100%;
+  overflow-y: auto !important;
+  margin-right: 5%;
+  margin-left: 5%;
+}

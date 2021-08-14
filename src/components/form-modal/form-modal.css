@@ -1,0 +1,29 @@
+.modal-title {
+
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 33px;
+}
+
+.cust-form-modal {
+  min-height: 733px;
+  width: 45%;
+  max-height: 80vh;
+  margin-top: 5%;
+}
+
+.form-section-title {
+    margin-bottom: 25px;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: #393939;
+}
+
+.form-modal-header{
+    background: #FEF2EB;
+}
+
+.form-modal-body{
+    padding: 10px 40px 0px 40px;
+}

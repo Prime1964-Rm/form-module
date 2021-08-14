@@ -1,0 +1,45 @@
+.cust-table-container{
+    margin-top: 30px;
+    height: min-content;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-y: auto;    
+}
+
+.cust-table-options{
+  margin-bottom: 20px;
+}
+
+.fa-download{
+    color:rgb(241, 126, 51, 1);
+    transform: scale(140%);
+
+}
+
+.fa-list{
+    color:rgb(241, 126, 51, 1);
+    transform: scale(140%);
+}
+
+
+.menu-item{
+    
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    padding: 5px;
+    text-align: center;
+    color:#393939;
+
+}
+
+
+.menu-item:hover{
+    background: transparent;
+    background-color: rgba(254, 242, 235, 1) !important;
+}
+
+.dropdown-menu{
+   
+}

@@ -1,0 +1,15 @@
+.opaqbg {
+  background-color: rgba(241, 126, 51, 0.1);
+}
+
+table td {
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: 400;
+}
+
+table th {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+}

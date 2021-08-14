@@ -1,0 +1,52 @@
+.cust-tile{
+    display: flex;
+    min-height: 72px;
+    min-width: 320px;
+    width: 100% !important;
+    border-top: 1.5px solid rgba(87, 79, 79, 0.19);
+    background: #FFFFFF;
+    cursor: pointer;
+    height: 10vh;
+}
+
+.first-tile{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(87, 79, 79, 0.19);
+}
+
+.tile-details{
+    display: flex;
+    padding-left: 30px;
+    justify-content: start;
+    align-items: center;
+    width: 80%;
+    background-color:"red";
+}
+
+.tile-details div{
+    height: fit-content;
+}
+
+.tile-header{
+    margin: 0;
+    font-weight: 600;
+    font-size: 2vh;
+    line-height: 1.5;
+}
+
+.tile-description{
+    font-weight: normal;
+    font-size: 1.5vh;
+        font-weight: 400;
+}
+
+.tile-actions{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+}
+
+.first{
+    border-top: 0px !important;
+}
